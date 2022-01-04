@@ -2,7 +2,7 @@
 
 - 🇨🇦 J'habite au Canadá
 - 🔭 Je travaille avec C#
-- 🌱 Je suis en train de étudier ReactJS et IoT
+- 🌱 Je suis entrain de étudier ReactJS et IoT (et plus de C#)
 - 👨‍👩‍👧 J'aime ma famille!!
 
 ##
