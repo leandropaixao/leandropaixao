@@ -17,6 +17,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Leandro-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Leandro-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img align="center" alt="Leandro-cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />  
   <img align="center" alt="Leandro-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img align="center" alt="Leandro-html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="Leandro-css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
