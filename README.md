@@ -1,7 +1,7 @@
 ### ``` Salut monde!! ```
 
 - 🇨🇦 J'habite au Canadá
-- 🔭 Je travaille avec C#
+- 🔭 Je travaille avec C# et un peu de C++
 - 🌱 Je suis en train d'étudier ReactJS et IoT (et plus de C#)
 - 👨‍👩‍👧 J'aime ma famille!!
 
