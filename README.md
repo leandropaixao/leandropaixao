@@ -35,5 +35,5 @@
   
 ##
 <div style="display: inline_block"><br>  
-  <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apple-Mac_Mini_M1_2022-999999?style=for-the-badge&logo=apple&logoColor=white" />
 </div>
