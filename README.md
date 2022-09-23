@@ -1,6 +1,7 @@
-### ``` Salut monde!! ```
+### ``` Console.Writeline("Salut monde!!")```
 
-- 🇨🇦 J'habite au Canadá
+- https://about.me/leandropaixao
+- 🍁 J'habite au Canadá 🍁
 - 🔭 Je travaille avec C# et un peu de C++
 - 🌱 Je suis entrain d'étudier ReactJS et IoT (et plus de C#)
 - 👨‍👩‍👧 J'aime ma famille!!
