@@ -1,7 +1,7 @@
 ### ``` Console.Writeline("Salut monde!!")```
 
 - https://about.me/leandropaixao
-- 🍁 Quebéc - Canadá 🍁
+- 🍁 Québec - Canadá 🍁
 - 🔭 Je travaille avec C# et un peu de C++
 - 🌱 C# | Rust | C++ | Python | ReactJS 
 
