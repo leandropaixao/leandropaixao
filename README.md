@@ -2,7 +2,7 @@
 
 - https://about.me/leandropaixao
 - 🍁 Québec - Canadá 🍁
-- 🔭 Je travaille avec C# et un peu de C++
+- 💻 Je travaille avec C# et un peu de C++
 - 🌱 C# | Rust | C++ | Python | ReactJS 
 
 ##
