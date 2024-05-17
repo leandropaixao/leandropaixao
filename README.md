@@ -3,7 +3,7 @@
 - https://about.me/leandropaixao
 - 🍁 Québec - Canadá 🍁
 - 💻 Je travaille avec C# et un peu de C++
-- 🌱 C# | Rust | C++ | Python | ReactJS 
+- 🌱 C# | Rust | C++ | Python | Blazor 
 
 ##
 
@@ -19,7 +19,7 @@
   <img align="center" alt="Leandro-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg"/>
   <img align="center" alt="Leandro-cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />  
   <img align="center" alt="Leandro-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img align="center" alt="Leandro-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img align="center" alt="Leandro-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blazor/blazor-original.svg" />
   <!--
   <img align="center" alt="Leandro-html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="Leandro-css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
